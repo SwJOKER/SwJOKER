@@ -12,7 +12,7 @@ I have started from attentionaly reading Lutz's Book 'Learning Python' and Lucia
 In process I learned Django, Django REST, HTML, CSS, SQL, JS, Docker. 
 Maybe my knowledges of any of this are not perfect but I learn permanently and have passion. 
 
-### By now I have done some projects you can find here. :
+### By now I have done some projects you can find here:
 
 - [Beck Test Bot](https://github.com/SwJOKER/BeckTestBot) - simple telegram bot with psyco Beck's test for depression. 
 - [Mail Sender Django](https://github.com/SwJOKER/django_mail_sender) - service to send email distribution using templates and subscribers list. 
