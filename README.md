@@ -12,7 +12,7 @@ My vector have been directing to Python way in 2022 year. I used to write on Pyt
 I have started from attentionaly reading Lutz's Book 'Learning Python' and Luciano Ramalho's 'Fluent Python'.<br>
 
 In process I learned Django, Django REST, HTML, CSS, SQL, JS, Docker. <br>
-Maybe my knowledges of any of this are not perfect but I learn permanently and have passion.<br> 
+Maybe my knowledges of any of that are not perfect but I learn permanently and have passion.<br> 
 In fact I already knew some of it and used before. And maybe I know more. Format too narrow to write all what i used or tried.<br>
 For example I used to program AVR-controllers on C and Arduino as hobby. But barely it interesting for employer.
 
