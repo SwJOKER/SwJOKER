@@ -1,6 +1,8 @@
 ## Hi!
 
-### I am Vitaly. Python developer with experience of Deplhi developing and system administration.
+### I am Vitaly. 
+
+Python developer with experience of Deplhi developing and system administration.
 
 ### About me: 
 I have profile education. And whole my life was near tech-theme. Even when my work was not straight connected to IT, I used to automate my routine tasks.
