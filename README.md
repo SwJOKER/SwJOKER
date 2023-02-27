@@ -11,9 +11,9 @@ My previous expirience as Delphi dev gave me a solid base.<br>
 My vector have been directing to Python way in 2022 year. I used to write on Python before, but my knowledges were spaced.<br>
 I have started from attentionaly reading Lutz's Book 'Learning Python' and Luciano Ramalho's 'Fluent Python'.<br>
 
-In process I learned Django, Django REST, HTML, CSS, SQL, JS, Docker. 
-Maybe my knowledges of any of this are not perfect but I learn permanently and have passion. 
-In fact I already knew some of it and used before. And maybe I know more. Format too narrow to write all what i used or tried.  
+In process I learned Django, Django REST, HTML, CSS, SQL, JS, Docker. <br>
+Maybe my knowledges of any of this are not perfect but I learn permanently and have passion.<br> 
+In fact I already knew some of it and used before. And maybe I know more. Format too narrow to write all what i used or tried.<br>
 For example I used to program AVR-controllers on C and Arduino as hobby. But barely it interesting for employer.
 
 ### By now I have done some projects you can find here:
