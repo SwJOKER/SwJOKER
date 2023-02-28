@@ -6,7 +6,7 @@ Python developer with experience of Deplhi developing and system administration.
 
 ### About me: 
 I have profile education. And whole my life was near tech-theme. Even when my work was not straight related to IT, I used to automate my routine tasks.<br>
-Now I have started my Python-way and want to find a job and great team to absorb information from professionals and work on interesting projects.<br>
+Now I have started my Python-way and want to find a job and a great team to absorb information from professionals and work on interesting projects.<br>
 My previous expirience as Delphi dev gave me a solid base.<br>
 My vector have been directing to Python way in 2022 year. I used to write on Python before, but my knowledges were spaced.<br>
 I have started from attentionaly reading Lutz's Book 'Learning Python' and Luciano Ramalho's 'Fluent Python'.<br>
