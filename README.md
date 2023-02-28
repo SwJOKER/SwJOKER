@@ -13,7 +13,7 @@ I have started from attentionaly reading Lutz's Book 'Learning Python' and Lucia
 
 In process I learned Django, Django REST, HTML, CSS, SQL, JS, Docker. <br>
 Maybe my knowledges of any of that are not perfect but I learn permanently and have passion.<br> 
-In fact I already knew some of it and used before. And maybe I know more. Format too narrow to write all what i used or tried.<br>
+In fact I already knew some of it and used before. And maybe I could list more.Format too narrow to write all what i used or tried.<br>
 For example I used to program AVR-controllers on C and Arduino as hobby. But barely it interesting for employer.
 
 ### By now I have done some projects you can find here:
