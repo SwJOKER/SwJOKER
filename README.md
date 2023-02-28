@@ -19,7 +19,7 @@ For example I used to program AVR-controllers on C and Arduino as hobby. But bar
 ### By now I have done some projects you can find here:
 
 - [Beck Test Bot](https://github.com/SwJOKER/BeckTestBot) - simple telegram bot with psyco Beck's test for depression. 
-- [Mail Sender Django](https://github.com/SwJOKER/django_mail_sender) - service to send email distribution using templates and subscribers list. 
+- [Mail Sender Django](https://github.com/SwJOKER/django_mail_sender) - service to send email distribution using templates and subscribers list. Using celery + redis.
 - [investing.com Parser](https://github.com/SwJOKER/investing.com_parser) - application parsing investing.com and collect data to CSV. Freelance task.
 - [Tree Menu Django](https://github.com/SwJOKER/tree_menu) - Tree Menu Django app using pure Python/Django. 
 - [Telegram Bot](https://github.com/SwJOKER/telbot_worktask) - app with sintetic functional wrote for HR by their scheme. It does nothing useful, but there implemented work with DB without ORM and mock tests. :)
