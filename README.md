@@ -17,7 +17,7 @@ In fact I already knew some of it and used before. And maybe I could list more.F
 For example I used to program AVR-controllers on C and Arduino as hobby. But barely it interesting for employer.
 
 ### By now I have done some projects you can find here:
-- [Music Catalog API](https://github.com/SwJOKER/google_sheets_app) - Google Sheets parser service. Grabs data from sheet to DB, calculate order cost from USD to Ruble. Notificate in telegram. Represent actual sheet data on web page. For dinamicaly web content updates implemented API. Celery(+beat), Redis, Aiogram. 
+- [Google sheets service](https://github.com/SwJOKER/google_sheets_app) - Google Sheets parser service. Grabs data from sheet to DB, calculate order cost from USD to Ruble. Notificate in telegram. Represent actual sheet data on web page. For dinamicaly web content updates implemented API. Celery(+beat), Redis, Aiogram. 
 - [Music Catalog API](https://github.com/SwJOKER/music_api) - Django REST project with Swagger.
 - [Beck Test Bot](https://github.com/SwJOKER/BeckTestBot) - simple telegram bot with psyco Beck's test for depression. 
 - [Mail Sender Django](https://github.com/SwJOKER/django_mail_sender) - service to send email distribution using templates and subscribers list. Using celery + redis.
